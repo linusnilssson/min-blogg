@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "title": "Chest Workout",
+      "image": "https://privatetrainingonline.se/wp-content/uploads/2022/06/Hantelflyes.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
+    },
+    {
+      "id": "2",
+      "title": "Arms Workout",
+      "image": "https://privatetrainingonline.se/wp-content/uploads/2021/09/Hammercurls.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
+    },
+    {
+      "id": "3",
+      "title": "Back Workout",
+      "image": "https://privatetrainingonline.se/wp-content/uploads/2018/10/Omvanda-flyes-PTO-Private-Training-Online.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
+    },
+    {
+      "id": "4",
+      "title": "Legs Workout",
+      "image": "https://privatetrainingonline.se/wp-content/uploads/2018/10/Benspark-PTO-e1671282634376.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
+    },
+    {
+      "id": "5",
+      "title": "Stomach Workout",
+      "image": "https://privatetrainingonline.se/wp-content/uploads/2021/06/Situps-Bosu-Boll.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
+    },
+    {
+      "id": "6",
+      "title": "Shoulders Workout",
+      "image": "https://privatetrainingonline.se/wp-content/uploads/2018/10/militarpress-private-training-online.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
+    }
+]
